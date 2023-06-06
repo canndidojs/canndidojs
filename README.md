@@ -3,7 +3,7 @@
 
 - 🔥 Desenvolvedor front-end. 
 - 👨‍💻 Veja mais no meu [linkedin](https://www.linkedin.com/in/fabricio-candido/)
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -17,7 +17,7 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br><br>
+<br>
 ## ⚙️ &nbsp;Análise Github
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canndidojs&layout=compact&theme=vision-friendly-dark" alt="canndidojs most languages"/>
 
