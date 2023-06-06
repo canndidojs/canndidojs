@@ -21,12 +21,12 @@
 ## ⚙️ &nbsp;Análise Github
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canndidojs&layout=compact&theme=vision-friendly-dark" alt="canndidojs most languages"/>
 
-## Mídias sociais
+## Contatos
 
 <a href="https://linkedin.com/in/fabricio-candido" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-canndidojs-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/inkcandido" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-canndidojs-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<br>
+📨 cf.pessoal13@gmail.com
+
 
