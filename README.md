@@ -1,7 +1,7 @@
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Fabrício Candido</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canndidojs&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor front-end. 
+- 🔥 Desenvolvedor
 - 👨‍💻 Veja mais no meu [linkedin](https://www.linkedin.com/in/fabricio-candido/)
 <br>
 
