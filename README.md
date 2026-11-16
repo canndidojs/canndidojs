@@ -1,32 +1,46 @@
-<h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Fabrício Candido</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=canndidojs&color=yellow" alt="Profile views" /> </p>
+# Fabrício Candido
 
-- 🔥 Desenvolvedor
-- 👨‍💻 Veja mais no meu [linkedin](https://www.linkedin.com/in/fabricio-candido/)
-<br>
+Tenho 25 anos, moro em Gravataí (RS) e passo o dia entre duas coisas que quase nunca andam juntas: planilha de gestão e código.
 
-## 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next.js)&nbsp;
-![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br>
-## ⚙️ &nbsp;Análise Github
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canndidojs&layout=compact&theme=vision-friendly-dark" alt="canndidojs most languages"/>
+Estudo **Administração na UNIASSELVI** e faço estágio de ADM na **Artuga Terraplenagem**. Lá eu também sou quem desenvolve o **ERP da empresa**. Ou seja: quem usa o que eu programo senta a poucos metros de mim, e me diz na hora quando algo não funciona.
 
-## Contatos
+Isso mudou a forma como eu escrevo software. Antes de abrir o editor eu pergunto como o processo funciona hoje, onde ele trava e quem vai mexer na tela. Boa parte do que a faculdade me ensinou sobre processo, custo e controle acaba virando regra de negócio no código.
 
-<a href="https://linkedin.com/in/fabricio-candido" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-canndidojs-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<br>
-📨 cf.pessoal13@gmail.com
+---
 
+## No que eu trabalho
 
+- **ERP da Artuga:** o sistema que a empresa usa no dia a dia, e que eu mantenho e evoluo.
+- **Aplicações web** com React no front e Node.js no back.
+- **Estudo:** gestão na faculdade, inglês técnico e programação fora do horário.
+
+## Como eu trabalho
+
+- Entendo o problema do usuário antes de escolher a tecnologia.
+- Prefiro tela simples que o pessoal use de verdade a tela bonita que ninguém abre.
+- Uso IA como ferramenta de desenvolvimento, para ir mais rápido. Não deixo ela decidir sozinha, e o que vai para produção eu entendo linha por linha.
+- Leio documentação em inglês sem tradutor.
+
+---
+
+## Ferramentas
+
+**Linguagem e front:** JavaScript · React · HTML · CSS · Bootstrap  
+**Back-end:** Node.js  
+**Dia a dia:** Git · GitHub · VS Code · Claude Code
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Contato
+
+- LinkedIn: [SEU_LINKEDIN](https://www.linkedin.com/in/fabricio-candido)
+<!-- Quando tiver projetos públicos, fixe-os no perfil e, se quiser, adicione os stats:
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&hide_border=true&theme=transparent" />
+-->
