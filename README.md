@@ -40,7 +40,7 @@ Isso mudou a forma como eu escrevo software. Antes de abrir o editor eu pergunto
 
 ## Contato
 
-- LinkedIn: [SEU_LINKEDIN](https://www.linkedin.com/in/fabricio-candido)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/fabricio-candido)
 <!-- Quando tiver projetos públicos, fixe-os no perfil e, se quiser, adicione os stats:
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&hide_border=true&theme=transparent" />
 -->
