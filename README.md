@@ -1,47 +1,26 @@
 # Fabrício Candido
 
-Tenho 25 anos, moro em Gravataí (RS) e passo o dia entre duas coisas que quase nunca andam juntas: planilha de gestão e código.
+Tenho 25 anos, moro em Gravataí (RS) e divido o dia entre planilha de gestão e código.
 
-Estudo **Administração na UNIASSELVI** e faço estágio de ADM na **Artuga Terraplenagem**. Lá eu também sou quem desenvolve o **ERP da empresa**. Ou seja: quem usa o que eu programo senta a poucos metros de mim, e me diz na hora quando algo não funciona.
+Estudo Administração na UNIASSELVI e estagio no ADM da Artuga Terraplenagem, onde também desenvolvo o ERP da empresa. Quem usa o sistema trabalha a poucos metros de mim e avisa na hora quando algo não funciona. Por isso eu começo sempre perguntando como o processo é hoje, onde ele trava e quem vai usar a tela. O que aprendo na faculdade sobre processo, custo e controle vira regra de negócio no código.
 
-Isso mudou a forma como eu escrevo software. Antes de abrir o editor eu pergunto como o processo funciona hoje, onde ele trava e quem vai mexer na tela. Boa parte do que a faculdade me ensinou sobre processo, custo e controle acaba virando regra de negócio no código.
+## O que eu faço
 
----
-
-## No que eu trabalho
-
-- **ERP da Artuga:** o sistema que a empresa usa no dia a dia, e que eu mantenho e evoluo.
-- **Análise e desenvolvimento:** fazia análise e desenvolvimento e fiz 2 módulos.
-- **Aplicações web** com React no front e Node.js no back.
-- **Estudo:** gestão na faculdade, inglês técnico e programação fora do horário.
+- Mantenho e evoluo o ERP da Artuga, que a empresa usa todo dia.
+- Fiz a análise e o desenvolvimento de 2 módulos dele.
+- Aplicações web com React no front e Node.js no back.
 
 ## Como eu trabalho
 
 - Entendo o problema do usuário antes de escolher a tecnologia.
-- Prefiro tela simples que o pessoal use de verdade a tela bonita que ninguém abre.
-- Uso IA como ferramenta de desenvolvimento, para ir mais rápido. Não deixo ela decidir sozinha, e o que vai para produção eu entendo linha por linha.
+- Prefiro uma tela simples que o pessoal use a uma bonita que ninguém abre.
 - Leio documentação em inglês sem tradutor.
-
----
+- Estudo inteligência artificial e programação fora do horário.
 
 ## Ferramentas
 
-**Linguagem e front:** JavaScript · React · HTML · CSS · Bootstrap  
-**Back-end:** Node.js  
-**Dia a dia:** Git · GitHub · VS Code · Claude Code
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
+JavaScript, React, HTML, CSS, Bootstrap, Node.js, Git, GitHub e VS Code.
 
 ## Contato
 
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/fabricio-candido)
-<!-- Quando tiver projetos públicos, fixe-os no perfil e, se quiser, adicione os stats:
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&hide_border=true&theme=transparent" />
--->
+[LinkedIn](https://www.linkedin.com/in/fabricio-candido)
