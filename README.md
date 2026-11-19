@@ -11,7 +11,7 @@ Isso mudou a forma como eu escrevo software. Antes de abrir o editor eu pergunto
 ## No que eu trabalho
 
 - **ERP da Artuga:** o sistema que a empresa usa no dia a dia, e que eu mantenho e evoluo.
-- **Análise e desenvolvimento:** fazia análise e desenvolvimento no ERP da Artuga e fiz 2 módulos do sistema.
+- **Análise e desenvolvimento:** fazia análise e desenvolvimento e fiz 2 módulos.
 - **Aplicações web** com React no front e Node.js no back.
 - **Estudo:** gestão na faculdade, inglês técnico e programação fora do horário.
 
